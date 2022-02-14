@@ -1,3 +1,3 @@
-# angular-7jmwpp
+# angular-exercise
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-7jmwpp)
